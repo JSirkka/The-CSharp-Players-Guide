@@ -1,0 +1,15 @@
+C:\Users\Jonas\Documents\the_csharp_players_guide\level_7\TheDominionOfKings\bin\Debug\net8.0\TheDominionOfKings.exe
+C:\Users\Jonas\Documents\the_csharp_players_guide\level_7\TheDominionOfKings\bin\Debug\net8.0\TheDominionOfKings.deps.json
+C:\Users\Jonas\Documents\the_csharp_players_guide\level_7\TheDominionOfKings\bin\Debug\net8.0\TheDominionOfKings.runtimeconfig.json
+C:\Users\Jonas\Documents\the_csharp_players_guide\level_7\TheDominionOfKings\bin\Debug\net8.0\TheDominionOfKings.dll
+C:\Users\Jonas\Documents\the_csharp_players_guide\level_7\TheDominionOfKings\bin\Debug\net8.0\TheDominionOfKings.pdb
+C:\Users\Jonas\Documents\the_csharp_players_guide\level_7\TheDominionOfKings\obj\Debug\net8.0\TheDominionOfKings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jonas\Documents\the_csharp_players_guide\level_7\TheDominionOfKings\obj\Debug\net8.0\TheDominionOfKings.AssemblyInfoInputs.cache
+C:\Users\Jonas\Documents\the_csharp_players_guide\level_7\TheDominionOfKings\obj\Debug\net8.0\TheDominionOfKings.AssemblyInfo.cs
+C:\Users\Jonas\Documents\the_csharp_players_guide\level_7\TheDominionOfKings\obj\Debug\net8.0\TheDominionOfKings.csproj.CoreCompileInputs.cache
+C:\Users\Jonas\Documents\the_csharp_players_guide\level_7\TheDominionOfKings\obj\Debug\net8.0\TheDominionOfKings.sourcelink.json
+C:\Users\Jonas\Documents\the_csharp_players_guide\level_7\TheDominionOfKings\obj\Debug\net8.0\TheDominionOfKings.dll
+C:\Users\Jonas\Documents\the_csharp_players_guide\level_7\TheDominionOfKings\obj\Debug\net8.0\refint\TheDominionOfKings.dll
+C:\Users\Jonas\Documents\the_csharp_players_guide\level_7\TheDominionOfKings\obj\Debug\net8.0\TheDominionOfKings.pdb
+C:\Users\Jonas\Documents\the_csharp_players_guide\level_7\TheDominionOfKings\obj\Debug\net8.0\TheDominionOfKings.genruntimeconfig.cache
+C:\Users\Jonas\Documents\the_csharp_players_guide\level_7\TheDominionOfKings\obj\Debug\net8.0\ref\TheDominionOfKings.dll
