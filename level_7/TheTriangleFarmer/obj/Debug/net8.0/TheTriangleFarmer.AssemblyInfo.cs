@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TheTriangleFarmer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8db520fbb8e66414aa8dfb929bc66cd78342f70a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+254038db85cdf257eba98b19ae48d100bd0aa866")]
 [assembly: System.Reflection.AssemblyProductAttribute("TheTriangleFarmer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TheTriangleFarmer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

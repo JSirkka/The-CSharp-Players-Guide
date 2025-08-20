@@ -1,0 +1,15 @@
+C:\Users\Jonas\Documents\the_csharp_players_guide\level_7\TheTriangleFarmer\bin\Debug\net8.0\TheTriangleFarmer.exe
+C:\Users\Jonas\Documents\the_csharp_players_guide\level_7\TheTriangleFarmer\bin\Debug\net8.0\TheTriangleFarmer.deps.json
+C:\Users\Jonas\Documents\the_csharp_players_guide\level_7\TheTriangleFarmer\bin\Debug\net8.0\TheTriangleFarmer.runtimeconfig.json
+C:\Users\Jonas\Documents\the_csharp_players_guide\level_7\TheTriangleFarmer\bin\Debug\net8.0\TheTriangleFarmer.dll
+C:\Users\Jonas\Documents\the_csharp_players_guide\level_7\TheTriangleFarmer\bin\Debug\net8.0\TheTriangleFarmer.pdb
+C:\Users\Jonas\Documents\the_csharp_players_guide\level_7\TheTriangleFarmer\obj\Debug\net8.0\TheTriangleFarmer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jonas\Documents\the_csharp_players_guide\level_7\TheTriangleFarmer\obj\Debug\net8.0\TheTriangleFarmer.AssemblyInfoInputs.cache
+C:\Users\Jonas\Documents\the_csharp_players_guide\level_7\TheTriangleFarmer\obj\Debug\net8.0\TheTriangleFarmer.AssemblyInfo.cs
+C:\Users\Jonas\Documents\the_csharp_players_guide\level_7\TheTriangleFarmer\obj\Debug\net8.0\TheTriangleFarmer.csproj.CoreCompileInputs.cache
+C:\Users\Jonas\Documents\the_csharp_players_guide\level_7\TheTriangleFarmer\obj\Debug\net8.0\TheTriangleFarmer.sourcelink.json
+C:\Users\Jonas\Documents\the_csharp_players_guide\level_7\TheTriangleFarmer\obj\Debug\net8.0\TheTriangleFarmer.dll
+C:\Users\Jonas\Documents\the_csharp_players_guide\level_7\TheTriangleFarmer\obj\Debug\net8.0\refint\TheTriangleFarmer.dll
+C:\Users\Jonas\Documents\the_csharp_players_guide\level_7\TheTriangleFarmer\obj\Debug\net8.0\TheTriangleFarmer.pdb
+C:\Users\Jonas\Documents\the_csharp_players_guide\level_7\TheTriangleFarmer\obj\Debug\net8.0\TheTriangleFarmer.genruntimeconfig.cache
+C:\Users\Jonas\Documents\the_csharp_players_guide\level_7\TheTriangleFarmer\obj\Debug\net8.0\ref\TheTriangleFarmer.dll
