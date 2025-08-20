@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jonas\\Documents\\the_csharp_players_guide\\level_7\\TheFourSistersAndTheDuckbear\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{72D2F8E8-293D-4627-A521-ADF8D4C07A84}|TheFourSistersAndTheDuckbear.csproj|c:\\users\\jonas\\documents\\the_csharp_players_guide\\level_7\\thefoursistersandtheduckbear\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72D2F8E8-293D-4627-A521-ADF8D4C07A84}|TheFourSistersAndTheDuckbear.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Jonas\\Documents\\the_csharp_players_guide\\level_7\\TheFourSistersAndTheDuckbear\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Jonas\\Documents\\the_csharp_players_guide\\level_7\\TheFourSistersAndTheDuckbear\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T09:57:38.879Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

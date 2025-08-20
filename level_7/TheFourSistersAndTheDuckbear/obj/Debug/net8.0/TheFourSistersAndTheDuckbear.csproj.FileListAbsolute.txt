@@ -1,0 +1,15 @@
+C:\Users\Jonas\Documents\the_csharp_players_guide\level_7\TheFourSistersAndTheDuckbear\bin\Debug\net8.0\TheFourSistersAndTheDuckbear.exe
+C:\Users\Jonas\Documents\the_csharp_players_guide\level_7\TheFourSistersAndTheDuckbear\bin\Debug\net8.0\TheFourSistersAndTheDuckbear.deps.json
+C:\Users\Jonas\Documents\the_csharp_players_guide\level_7\TheFourSistersAndTheDuckbear\bin\Debug\net8.0\TheFourSistersAndTheDuckbear.runtimeconfig.json
+C:\Users\Jonas\Documents\the_csharp_players_guide\level_7\TheFourSistersAndTheDuckbear\bin\Debug\net8.0\TheFourSistersAndTheDuckbear.dll
+C:\Users\Jonas\Documents\the_csharp_players_guide\level_7\TheFourSistersAndTheDuckbear\bin\Debug\net8.0\TheFourSistersAndTheDuckbear.pdb
+C:\Users\Jonas\Documents\the_csharp_players_guide\level_7\TheFourSistersAndTheDuckbear\obj\Debug\net8.0\TheFourSistersAndTheDuckbear.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jonas\Documents\the_csharp_players_guide\level_7\TheFourSistersAndTheDuckbear\obj\Debug\net8.0\TheFourSistersAndTheDuckbear.AssemblyInfoInputs.cache
+C:\Users\Jonas\Documents\the_csharp_players_guide\level_7\TheFourSistersAndTheDuckbear\obj\Debug\net8.0\TheFourSistersAndTheDuckbear.AssemblyInfo.cs
+C:\Users\Jonas\Documents\the_csharp_players_guide\level_7\TheFourSistersAndTheDuckbear\obj\Debug\net8.0\TheFourSistersAndTheDuckbear.csproj.CoreCompileInputs.cache
+C:\Users\Jonas\Documents\the_csharp_players_guide\level_7\TheFourSistersAndTheDuckbear\obj\Debug\net8.0\TheFourSistersAndTheDuckbear.sourcelink.json
+C:\Users\Jonas\Documents\the_csharp_players_guide\level_7\TheFourSistersAndTheDuckbear\obj\Debug\net8.0\TheFourSistersAndTheDuckbear.dll
+C:\Users\Jonas\Documents\the_csharp_players_guide\level_7\TheFourSistersAndTheDuckbear\obj\Debug\net8.0\refint\TheFourSistersAndTheDuckbear.dll
+C:\Users\Jonas\Documents\the_csharp_players_guide\level_7\TheFourSistersAndTheDuckbear\obj\Debug\net8.0\TheFourSistersAndTheDuckbear.pdb
+C:\Users\Jonas\Documents\the_csharp_players_guide\level_7\TheFourSistersAndTheDuckbear\obj\Debug\net8.0\TheFourSistersAndTheDuckbear.genruntimeconfig.cache
+C:\Users\Jonas\Documents\the_csharp_players_guide\level_7\TheFourSistersAndTheDuckbear\obj\Debug\net8.0\ref\TheFourSistersAndTheDuckbear.dll
