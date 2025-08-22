@@ -1,0 +1,15 @@
+C:\Users\Jonas\Documents\the_csharp_players_guide\level_10\BuyingInventory\bin\Debug\net8.0\BuyingInventory.exe
+C:\Users\Jonas\Documents\the_csharp_players_guide\level_10\BuyingInventory\bin\Debug\net8.0\BuyingInventory.deps.json
+C:\Users\Jonas\Documents\the_csharp_players_guide\level_10\BuyingInventory\bin\Debug\net8.0\BuyingInventory.runtimeconfig.json
+C:\Users\Jonas\Documents\the_csharp_players_guide\level_10\BuyingInventory\bin\Debug\net8.0\BuyingInventory.dll
+C:\Users\Jonas\Documents\the_csharp_players_guide\level_10\BuyingInventory\bin\Debug\net8.0\BuyingInventory.pdb
+C:\Users\Jonas\Documents\the_csharp_players_guide\level_10\BuyingInventory\obj\Debug\net8.0\BuyingInventory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jonas\Documents\the_csharp_players_guide\level_10\BuyingInventory\obj\Debug\net8.0\BuyingInventory.AssemblyInfoInputs.cache
+C:\Users\Jonas\Documents\the_csharp_players_guide\level_10\BuyingInventory\obj\Debug\net8.0\BuyingInventory.AssemblyInfo.cs
+C:\Users\Jonas\Documents\the_csharp_players_guide\level_10\BuyingInventory\obj\Debug\net8.0\BuyingInventory.csproj.CoreCompileInputs.cache
+C:\Users\Jonas\Documents\the_csharp_players_guide\level_10\BuyingInventory\obj\Debug\net8.0\BuyingInventory.sourcelink.json
+C:\Users\Jonas\Documents\the_csharp_players_guide\level_10\BuyingInventory\obj\Debug\net8.0\BuyingInventory.dll
+C:\Users\Jonas\Documents\the_csharp_players_guide\level_10\BuyingInventory\obj\Debug\net8.0\refint\BuyingInventory.dll
+C:\Users\Jonas\Documents\the_csharp_players_guide\level_10\BuyingInventory\obj\Debug\net8.0\BuyingInventory.pdb
+C:\Users\Jonas\Documents\the_csharp_players_guide\level_10\BuyingInventory\obj\Debug\net8.0\BuyingInventory.genruntimeconfig.cache
+C:\Users\Jonas\Documents\the_csharp_players_guide\level_10\BuyingInventory\obj\Debug\net8.0\ref\BuyingInventory.dll
