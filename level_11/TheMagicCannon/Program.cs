@@ -31,8 +31,9 @@ for (int i = 1;i <= 100 ;i++)
     if (cannonBlast == "")
     {
         cannonBlast = "Normal";
-        Console.ForegroundColor = ConsoleColor.White;
     }
 
     Console.WriteLine($"{i}: {cannonBlast}");
+    Console.ForegroundColor = ConsoleColor.White;
+
 }
