@@ -1,0 +1,15 @@
+C:\Users\Jonas\Documents\the_csharp_players_guide\level_11\ThePrototype\bin\Debug\net8.0\ThePrototype.exe
+C:\Users\Jonas\Documents\the_csharp_players_guide\level_11\ThePrototype\bin\Debug\net8.0\ThePrototype.deps.json
+C:\Users\Jonas\Documents\the_csharp_players_guide\level_11\ThePrototype\bin\Debug\net8.0\ThePrototype.runtimeconfig.json
+C:\Users\Jonas\Documents\the_csharp_players_guide\level_11\ThePrototype\bin\Debug\net8.0\ThePrototype.dll
+C:\Users\Jonas\Documents\the_csharp_players_guide\level_11\ThePrototype\bin\Debug\net8.0\ThePrototype.pdb
+C:\Users\Jonas\Documents\the_csharp_players_guide\level_11\ThePrototype\obj\Debug\net8.0\ThePrototype.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jonas\Documents\the_csharp_players_guide\level_11\ThePrototype\obj\Debug\net8.0\ThePrototype.AssemblyInfoInputs.cache
+C:\Users\Jonas\Documents\the_csharp_players_guide\level_11\ThePrototype\obj\Debug\net8.0\ThePrototype.AssemblyInfo.cs
+C:\Users\Jonas\Documents\the_csharp_players_guide\level_11\ThePrototype\obj\Debug\net8.0\ThePrototype.csproj.CoreCompileInputs.cache
+C:\Users\Jonas\Documents\the_csharp_players_guide\level_11\ThePrototype\obj\Debug\net8.0\ThePrototype.sourcelink.json
+C:\Users\Jonas\Documents\the_csharp_players_guide\level_11\ThePrototype\obj\Debug\net8.0\ThePrototype.dll
+C:\Users\Jonas\Documents\the_csharp_players_guide\level_11\ThePrototype\obj\Debug\net8.0\refint\ThePrototype.dll
+C:\Users\Jonas\Documents\the_csharp_players_guide\level_11\ThePrototype\obj\Debug\net8.0\ThePrototype.pdb
+C:\Users\Jonas\Documents\the_csharp_players_guide\level_11\ThePrototype\obj\Debug\net8.0\ThePrototype.genruntimeconfig.cache
+C:\Users\Jonas\Documents\the_csharp_players_guide\level_11\ThePrototype\obj\Debug\net8.0\ref\ThePrototype.dll
