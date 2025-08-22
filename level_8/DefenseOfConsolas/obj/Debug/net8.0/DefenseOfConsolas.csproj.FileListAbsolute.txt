@@ -1,0 +1,15 @@
+C:\Users\Jonas\Documents\the_csharp_players_guide\level_8\DefenseOfConsolas\bin\Debug\net8.0\DefenseOfConsolas.exe
+C:\Users\Jonas\Documents\the_csharp_players_guide\level_8\DefenseOfConsolas\bin\Debug\net8.0\DefenseOfConsolas.deps.json
+C:\Users\Jonas\Documents\the_csharp_players_guide\level_8\DefenseOfConsolas\bin\Debug\net8.0\DefenseOfConsolas.runtimeconfig.json
+C:\Users\Jonas\Documents\the_csharp_players_guide\level_8\DefenseOfConsolas\bin\Debug\net8.0\DefenseOfConsolas.dll
+C:\Users\Jonas\Documents\the_csharp_players_guide\level_8\DefenseOfConsolas\bin\Debug\net8.0\DefenseOfConsolas.pdb
+C:\Users\Jonas\Documents\the_csharp_players_guide\level_8\DefenseOfConsolas\obj\Debug\net8.0\DefenseOfConsolas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jonas\Documents\the_csharp_players_guide\level_8\DefenseOfConsolas\obj\Debug\net8.0\DefenseOfConsolas.AssemblyInfoInputs.cache
+C:\Users\Jonas\Documents\the_csharp_players_guide\level_8\DefenseOfConsolas\obj\Debug\net8.0\DefenseOfConsolas.AssemblyInfo.cs
+C:\Users\Jonas\Documents\the_csharp_players_guide\level_8\DefenseOfConsolas\obj\Debug\net8.0\DefenseOfConsolas.csproj.CoreCompileInputs.cache
+C:\Users\Jonas\Documents\the_csharp_players_guide\level_8\DefenseOfConsolas\obj\Debug\net8.0\DefenseOfConsolas.sourcelink.json
+C:\Users\Jonas\Documents\the_csharp_players_guide\level_8\DefenseOfConsolas\obj\Debug\net8.0\DefenseOfConsolas.dll
+C:\Users\Jonas\Documents\the_csharp_players_guide\level_8\DefenseOfConsolas\obj\Debug\net8.0\refint\DefenseOfConsolas.dll
+C:\Users\Jonas\Documents\the_csharp_players_guide\level_8\DefenseOfConsolas\obj\Debug\net8.0\DefenseOfConsolas.pdb
+C:\Users\Jonas\Documents\the_csharp_players_guide\level_8\DefenseOfConsolas\obj\Debug\net8.0\DefenseOfConsolas.genruntimeconfig.cache
+C:\Users\Jonas\Documents\the_csharp_players_guide\level_8\DefenseOfConsolas\obj\Debug\net8.0\ref\DefenseOfConsolas.dll
