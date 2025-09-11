@@ -1,0 +1,15 @@
+C:\Users\Jonas\Documents\the_csharp_players_guide\level_12\TheReplicatorOfDTo\bin\Debug\net8.0\TheReplicatorOfDTo.exe
+C:\Users\Jonas\Documents\the_csharp_players_guide\level_12\TheReplicatorOfDTo\bin\Debug\net8.0\TheReplicatorOfDTo.deps.json
+C:\Users\Jonas\Documents\the_csharp_players_guide\level_12\TheReplicatorOfDTo\bin\Debug\net8.0\TheReplicatorOfDTo.runtimeconfig.json
+C:\Users\Jonas\Documents\the_csharp_players_guide\level_12\TheReplicatorOfDTo\bin\Debug\net8.0\TheReplicatorOfDTo.dll
+C:\Users\Jonas\Documents\the_csharp_players_guide\level_12\TheReplicatorOfDTo\bin\Debug\net8.0\TheReplicatorOfDTo.pdb
+C:\Users\Jonas\Documents\the_csharp_players_guide\level_12\TheReplicatorOfDTo\obj\Debug\net8.0\TheReplicatorOfDTo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jonas\Documents\the_csharp_players_guide\level_12\TheReplicatorOfDTo\obj\Debug\net8.0\TheReplicatorOfDTo.AssemblyInfoInputs.cache
+C:\Users\Jonas\Documents\the_csharp_players_guide\level_12\TheReplicatorOfDTo\obj\Debug\net8.0\TheReplicatorOfDTo.AssemblyInfo.cs
+C:\Users\Jonas\Documents\the_csharp_players_guide\level_12\TheReplicatorOfDTo\obj\Debug\net8.0\TheReplicatorOfDTo.csproj.CoreCompileInputs.cache
+C:\Users\Jonas\Documents\the_csharp_players_guide\level_12\TheReplicatorOfDTo\obj\Debug\net8.0\TheReplicatorOfDTo.sourcelink.json
+C:\Users\Jonas\Documents\the_csharp_players_guide\level_12\TheReplicatorOfDTo\obj\Debug\net8.0\TheReplicatorOfDTo.dll
+C:\Users\Jonas\Documents\the_csharp_players_guide\level_12\TheReplicatorOfDTo\obj\Debug\net8.0\refint\TheReplicatorOfDTo.dll
+C:\Users\Jonas\Documents\the_csharp_players_guide\level_12\TheReplicatorOfDTo\obj\Debug\net8.0\TheReplicatorOfDTo.pdb
+C:\Users\Jonas\Documents\the_csharp_players_guide\level_12\TheReplicatorOfDTo\obj\Debug\net8.0\TheReplicatorOfDTo.genruntimeconfig.cache
+C:\Users\Jonas\Documents\the_csharp_players_guide\level_12\TheReplicatorOfDTo\obj\Debug\net8.0\ref\TheReplicatorOfDTo.dll
