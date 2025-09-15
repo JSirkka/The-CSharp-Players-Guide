@@ -1,0 +1,15 @@
+C:\Users\Jonas\Documents\the_csharp_players_guide\level_13\recursiveCount\bin\Debug\net8.0\recursiveCount.exe
+C:\Users\Jonas\Documents\the_csharp_players_guide\level_13\recursiveCount\bin\Debug\net8.0\recursiveCount.deps.json
+C:\Users\Jonas\Documents\the_csharp_players_guide\level_13\recursiveCount\bin\Debug\net8.0\recursiveCount.runtimeconfig.json
+C:\Users\Jonas\Documents\the_csharp_players_guide\level_13\recursiveCount\bin\Debug\net8.0\recursiveCount.dll
+C:\Users\Jonas\Documents\the_csharp_players_guide\level_13\recursiveCount\bin\Debug\net8.0\recursiveCount.pdb
+C:\Users\Jonas\Documents\the_csharp_players_guide\level_13\recursiveCount\obj\Debug\net8.0\recursiveCount.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jonas\Documents\the_csharp_players_guide\level_13\recursiveCount\obj\Debug\net8.0\recursiveCount.AssemblyInfoInputs.cache
+C:\Users\Jonas\Documents\the_csharp_players_guide\level_13\recursiveCount\obj\Debug\net8.0\recursiveCount.AssemblyInfo.cs
+C:\Users\Jonas\Documents\the_csharp_players_guide\level_13\recursiveCount\obj\Debug\net8.0\recursiveCount.csproj.CoreCompileInputs.cache
+C:\Users\Jonas\Documents\the_csharp_players_guide\level_13\recursiveCount\obj\Debug\net8.0\recursiveCount.sourcelink.json
+C:\Users\Jonas\Documents\the_csharp_players_guide\level_13\recursiveCount\obj\Debug\net8.0\recursiveCount.dll
+C:\Users\Jonas\Documents\the_csharp_players_guide\level_13\recursiveCount\obj\Debug\net8.0\refint\recursiveCount.dll
+C:\Users\Jonas\Documents\the_csharp_players_guide\level_13\recursiveCount\obj\Debug\net8.0\recursiveCount.pdb
+C:\Users\Jonas\Documents\the_csharp_players_guide\level_13\recursiveCount\obj\Debug\net8.0\recursiveCount.genruntimeconfig.cache
+C:\Users\Jonas\Documents\the_csharp_players_guide\level_13\recursiveCount\obj\Debug\net8.0\ref\recursiveCount.dll
